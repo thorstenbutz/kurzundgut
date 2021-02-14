@@ -4,4 +4,4 @@ In diesem Coderepositorium finden Sie Listings und (weiterführende) Beispiele z
 
 
 
-![](D:\git\kurzundgut\PowerShellKurzUndGut467x770.jpg)
+![](PowerShellKurzUndGut467x770.jpg)
